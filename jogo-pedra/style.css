@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url("./imagem.jpg");
+    background-size: cover;
+    background-position: top;
+
+}
+
+button{
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+}
